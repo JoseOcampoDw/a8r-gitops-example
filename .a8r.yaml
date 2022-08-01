@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: f3631556-146c-592b-a377-c5c639b751cf
+    cluster_name: Jose Ocampo-Gomez's cluster
